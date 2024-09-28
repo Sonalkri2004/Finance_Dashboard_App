@@ -1,8 +1,0 @@
-{
-    "rewrites": [
-      {
-        "source": "/(.*)",
-        "destination": "/finance-dashboard-app/client/"
-      }
-    ]
-  }
